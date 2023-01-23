@@ -8,7 +8,8 @@ Components:
 * Blues Notecard-F & antenna
 * ESP32-Feather
 * Htu31d Temp and Humidity I2C Sensor (www.adafruit.com/product/5580)
-* 1200mah Lipo battery
+* 1200mAh Lipo battery
 * MAX17048 Lipo Fuel Gauge (www.adafruit.com/product/4832)
 * I2C OLED
 * DPDT power switch
+* 3D Printed enclosure
