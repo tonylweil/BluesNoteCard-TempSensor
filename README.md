@@ -5,10 +5,10 @@ This device is used to monitor a vacant house during a vacation. It reports temp
 A custom hat/shield contains all the extra components and plugs into the headers on the Notecard. See Schematic.
 Components:
 
-* Blues Notecard-F
+* Blues Notecard-F & antenna
 * ESP32-Feather
-* Htu31d Temp and Humidity I2C Sensor 
+* Htu31d Temp and Humidity I2C Sensor (www.adafruit.com/product/5580)
 * 1200mah Lipo battery
-* LC709203F Lipo Fuel Gauge (adafruit)
-* OLED
+* MAX17048 Lipo Fuel Gauge (www.adafruit.com/product/4832)
+* I2C OLED
 * DPDT power switch
